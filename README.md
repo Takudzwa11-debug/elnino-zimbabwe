@@ -1,6 +1,6 @@
 # El Niño and Drought Risk in Zimbabwe
 
-**🔗 Live dashboard: [add your Streamlit link here](#)**
+**🔗 Live dashboard: https://zimbabwe-elnino.streamlit.app/
 
 **Can last century's climate record tell us which provinces are most at risk in the 2026/27 El Niño season?**
 
